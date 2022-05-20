@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV is available [here](cv.pdf)
+Full CV is available [here](http://gonenhila.github.io/files/cv.pdf)
