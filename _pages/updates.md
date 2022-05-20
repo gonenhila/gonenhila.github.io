@@ -4,4 +4,4 @@ Our "lipstick on a pig" paper is discussed in the book ["The Alignment Problem"]
 
 December 2021 - Invited talk at Emily Bender's group - Subspaces in Multilingual Models
 
-October 2021 - Started postdoctoral research at Meta AI and at UW
+October 2021 - Started postdoctoral research at Meta AI and at UW 
