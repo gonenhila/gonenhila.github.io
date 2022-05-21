@@ -73,10 +73,34 @@ The ability to control for the kinds of information encoded in neural representa
 [Paper](https://aclanthology.org/2020.acl-main.647/) [Code](https://github.com/shauli-ravfogel/nullspace_projection)
 
 
-[Paper]() [Code]()
-[Paper]() [Code]()
-[Paper]() [Code]()
+How does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?
+------
+<u>Hila Gonen</u>, Yova Kementchedjhieva, Yoav Goldberg. CoNLL 2019, <span style="color:blue">Best Paper</span> 
+Many natural languages assign grammatical gender also to inanimate nouns in the language. In such languages, words that relate to the gender-marked nouns are inflected to agree with the noun's gender. We show that this affects the word representations of inanimate nouns, resulting in nouns with the same gender being closer to each other than nouns with different gender. While "embedding debiasing" methods fail to remove the effect, we demonstrate that a careful application of methods that neutralize grammatical gender signals from the words' context when training word embeddings is effective in removing it. Fixing the grammatical gender bias yields a positive effect on the quality of the resulting word embeddings, both in monolingual and cross-lingual settings. We note that successfully removing gender signals, while achievable, is not trivial to do and that a language-specific morphological analyzer, together with careful usage of it, are essential for achieving good results.
 
+[Paper](https://aclanthology.org/W19-3622/) [Code](https://github.com/gonenhila/grammatical_gender)
+
+
+It's All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution
+------
+Rowan Hall Maudslay, <u>Hila Gonen</u>, Ryan Cotterell, Simone Teufel. EMNLP, 2019
+
+This paper treats gender bias latent in word embeddings. Previous mitigation attempts rely on the operationalisation of gender bias as a projection over a linear subspace. An alternative approach is Counterfactual Data Augmentation (CDA), in which a corpus is duplicated and augmented to remove bias, e.g. by swapping all inherently-gendered words in the copy. We perform an empirical comparison of these approaches on the English Gigaword and Wikipedia, and find that whilst both successfully reduce direct bias and perform well in tasks which quantify embedding quality, CDA variants outperform projection-based methods at the task of drawing non-biased gender analogies by an average of 19% across both corpora. We propose two improvements to CDA: Counterfactual Data Substitution (CDS), a variant of CDA in which potentially biased text is randomly substituted to avoid duplication, and the Names Intervention, a novel name-pairing technique that vastly increases the number of words being treated. CDA/S with the Names Intervention is the only approach which is able to mitigate indirect gender bias: following debiasing, previously biased words are significantly less clustered according to gender (cluster purity is reduced by 49%), thus improving on the state-of-the-art for bias mitigation.
+
+[Paper](https://aclanthology.org/D19-1530/) 
+
+
+Lipstick on a Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings But do not Remove Them
+------
+<u>Hila Gonen</u>, Yoav Goldberg. NAACL 2019
+
+Word embeddings are widely used in NLP for a vast range of tasks. It was shown that word embeddings derived from text corpora reflect gender biases in society. This phenomenon is pervasive and consistent across different word embedding models, causing serious concern. Several recent works tackle this problem, and propose methods for significantly reducing this gender bias in word embeddings, demonstrating convincing results. However, we argue that this removal is superficial. While the bias is indeed substantially reduced according to the provided bias definition, the actual effect is mostly hiding the bias, not removing it. The gender bias information is still reflected in the distances between "gender-neutralized" words in the debiased embeddings, and can be recovered from them. We present a series of experiments to support this claim, for two debiasing methods. We conclude that existing bias removal techniques are insufficient, and should not be trusted for providing gender-neutral modeling.
+
+[Paper](https://aclanthology.org/N19-1061/) [Code](https://github.com/gonenhila/gender_bias_lipstick)
+
+
+[Paper]() [Code]()
+[Paper]() [Code]()
 {% include base_path %}
 
 
