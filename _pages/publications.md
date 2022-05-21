@@ -75,7 +75,8 @@ The ability to control for the kinds of information encoded in neural representa
 
 How does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?
 ------
-<u>Hila Gonen</u>, Yova Kementchedjhieva, Yoav Goldberg. CoNLL 2019, <span style="color:blue">Best Paper</span> 
+<u>Hila Gonen</u>, Yova Kementchedjhieva, Yoav Goldberg. <span style="color:blue">Best Paper</span> at CoNLL 2019
+
 Many natural languages assign grammatical gender also to inanimate nouns in the language. In such languages, words that relate to the gender-marked nouns are inflected to agree with the noun's gender. We show that this affects the word representations of inanimate nouns, resulting in nouns with the same gender being closer to each other than nouns with different gender. While "embedding debiasing" methods fail to remove the effect, we demonstrate that a careful application of methods that neutralize grammatical gender signals from the words' context when training word embeddings is effective in removing it. Fixing the grammatical gender bias yields a positive effect on the quality of the resulting word embeddings, both in monolingual and cross-lingual settings. We note that successfully removing gender signals, while achievable, is not trivial to do and that a language-specific morphological analyzer, together with careful usage of it, are essential for achieving good results.
 
 [Paper](https://aclanthology.org/W19-3622/) [Code](https://github.com/gonenhila/grammatical_gender)
@@ -83,7 +84,7 @@ Many natural languages assign grammatical gender also to inanimate nouns in the 
 
 It's All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution
 ------
-Rowan Hall Maudslay, <u>Hila Gonen</u>, Ryan Cotterell, Simone Teufel. EMNLP, 2019
+Rowan Hall Maudslay, <u>Hila Gonen</u>, Ryan Cotterell, Simone Teufel. EMNLP 2019
 
 This paper treats gender bias latent in word embeddings. Previous mitigation attempts rely on the operationalisation of gender bias as a projection over a linear subspace. An alternative approach is Counterfactual Data Augmentation (CDA), in which a corpus is duplicated and augmented to remove bias, e.g. by swapping all inherently-gendered words in the copy. We perform an empirical comparison of these approaches on the English Gigaword and Wikipedia, and find that whilst both successfully reduce direct bias and perform well in tasks which quantify embedding quality, CDA variants outperform projection-based methods at the task of drawing non-biased gender analogies by an average of 19% across both corpora. We propose two improvements to CDA: Counterfactual Data Substitution (CDS), a variant of CDA in which potentially biased text is randomly substituted to avoid duplication, and the Names Intervention, a novel name-pairing technique that vastly increases the number of words being treated. CDA/S with the Names Intervention is the only approach which is able to mitigate indirect gender bias: following debiasing, previously biased words are significantly less clustered according to gender (cluster purity is reduced by 49%), thus improving on the state-of-the-art for bias mitigation.
 
@@ -99,8 +100,35 @@ Word embeddings are widely used in NLP for a vast range of tasks. It was shown t
 [Paper](https://aclanthology.org/N19-1061/) [Code](https://github.com/gonenhila/gender_bias_lipstick)
 
 
-[Paper]() [Code]()
-[Paper]() [Code]()
+Language Modeling for Code-Switching: Evaluation, Integration of Monolingual Data, and Discriminative Training
+------
+<u>Hila Gonen</u>, Yoav Goldberg. EMNLP 2019
+
+We focus on the problem of language modeling for code-switched language, in the context of automatic speech recognition (ASR). Language modeling for code-switched language is challenging for (at least) three reasons: (1) lack of available large-scale code-switched data for training; (2) lack of a replicable evaluation setup that is ASR directed yet isolates language modeling performance from the other intricacies of the ASR system; and (3) the reliance on generative modeling. We tackle these three issues: we propose an ASR-motivated evaluation setup which is decoupled from an ASR system and the choice of vocabulary, and provide an evaluation dataset for English-Spanish code-switching. This setup lends itself to a discriminative training approach, which we demonstrate to work better than generative language modeling. Finally, we explore a variety of training protocols and verify the effectiveness of training with large amounts of monolingual data followed by fine-tuning with small amounts of code-switched data, for both the generative and discriminative cases.
+
+[Paper](https://aclanthology.org/D19-1427/) [Code](https://github.com/gonenhila/codeswitching-lm)
+
+
+Semi Supervised Preposition-Sense Disambiguation using Multilingual Data
+------
+<u>Hila Gonen</u>, Yoav Goldberg. COLING 2016
+
+Prepositions are very common and very ambiguous, and understanding their sense is critical for understanding the meaning of the sentence. Supervised corpora for the preposition-sense disambiguation task are small, suggesting a semi-supervised approach to the task. We show that signals from unannotated multilingual data can be used to improve supervised preposition-sense disambiguation. Our approach pre-trains an LSTM encoder for predicting the translation of a preposition, and then incorporates the pre-trained encoder as a component in a supervised classification system, and fine-tunes it for the task. The multilingual signals consistently improve results on two preposition-sense datasets.
+
+[Paper](https://aclanthology.org/C16-1256/) 
+
+
+Inherent Vacuity in Lattice Automata?
+------
+<u>Hila Gonen</u>, Orna Kupferman. In Fields of Logic and Computation II, volume 9300 of Lecture Notes in Computer Science, pages 174-192. Springer, 2015
+
+Vacuity checking is traditionally performed after model checking has terminated successfully. It ensures that all the elements of the specification have played a role in its satisfaction by the system. The need to check the quality of specifications is even more acute in property-based design, where the specification is the only input, serving as a basis to the development of the system. Inherent vacuity adapts the theory of vacuity in model checking to the setting of property-based design. Essentially, a specification is inherently vacuous if it can be mutated into a simpler equivalent specification, which is known, in the case of specifications in linear temporal logic, to coincide with the fact the specification is satisfied vacuously in all systems.
+A recent development in formal methods is an extension of the Boolean setting to a multi-valued one. In particular, instead of Boolean automata, which either accept or reject their input, there is a growing interest in weighted automata, which map an input word to a value from a semiring over a large domain. A distributive finite lattice is a special case of a semiring, and lattice automata are used in several methods for reasoning about multi-valued objects. We study inherent vacuity in the setting of lattice automata, namely the ability to mutate the value of a transition in the automaton without changing its language. We define the concept of inherent vacuity in lattice automata, study the complexity of deciding different types of vacuity, and relate the setting to the one known for linear temporal logics.
+
+
+[Paper](https://www.cs.huji.ac.il/~ornak/publications/yuri15.pdf)
+
+
 {% include base_path %}
 
 
