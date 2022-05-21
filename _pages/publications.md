@@ -34,6 +34,27 @@ A large body of research on gender-linked language has established foundations r
 
 [Paper](https://aclanthology.org/2020.coling-main.454/) [Code](https://github.com/ellarabi/gender-idiomatic-language)
 
+
+It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT
+------
+<u>Hila Gonen</u>, Shauli Ravfogel, Yanai Elazar, Yoav Goldberg, BlackBoxNLP workshop, 2020
+
+Recent works have demonstrated that multilingual BERT (mBERT) learns rich cross-lingual representations, that allow for transfer across languages. We study the word-level translation information embedded in mBERT and present two simple methods that expose remarkable translation capabilities with no fine-tuning. The results suggest that most of this information is encoded in a non-linear way, while some of it can also be recovered with purely linear tools. As part of our analysis, we test the hypothesis that mBERT learns representations which contain both a language-encoding component and an abstract, cross-lingual component, and explicitly identify an empirical language-identity subspace within mBERT representations.
+
+[Paper](https://aclanthology.org/2020.blackboxnlp-1.5/) [Code](https://github.com/gonenhila/mbert)
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% include base_path %}
 
 
