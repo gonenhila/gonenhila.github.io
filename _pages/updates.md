@@ -5,6 +5,8 @@ permalink: /updates/
 author_profile: true
 ---
 
+May 2022 - We are honored to get the *Best Paper* award at the RepL4NLP workshop for our paper ["Analyzing Gender Representation in Multilingual Models"](https://arxiv.org/pdf/2204.09168.pdf)
+
 March 2022 - Guest lecture at the [NLP course](https://courses.cs.washington.edu/courses/csep517/) at UW (Prof. Noah A. Smith)
 
 Our "lipstick on a pig" paper is discussed in the book ["The Alignment Problem"](https://brianchristian.org/the-alignment-problem/) by Brian Christian
