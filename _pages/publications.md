@@ -8,6 +8,34 @@ author_profile: true
 
 Full list of publications can be found in <u><a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+
+Prompting Language Models for Linguistic Structure
+------
+Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer.
+
+Although pretrained language models (PLMs) can be prompted to perform a wide range of language tasks, it remains an open question how much this ability comes from generalizable linguistic representations versus more surface-level lexical patterns. To test this, we present a structured prompting approach that can be used to prompt for linguistic structure prediction tasks, allowing us to perform zero- and few-shot sequence tagging with autoregressive PLMs. We evaluate this approach on part-of-speech tagging, named entity recognition, and sentence chunking and demonstrate strong few-shot performance in all cases. We also find that, though the surface forms of the tags provide some signal, structured prompting can retrieve linguistic structure even with arbitrary labels, indicating that PLMs contain this knowledge in a general manner robust to label choice.
+
+[Paper](https://arxiv.org/abs/2211.07830)
+
+
+Analyzing the Mono-and Cross-Lingual Pretraining Dynamics of Multilingual Language Models
+------
+Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer. EMNLP, 2022.
+
+The emergent cross-lingual transfer seen in multilingual pretrained models has sparked significant interest in studying their behavior. However, because these analyses have focused on fully trained multilingual models, little is known about the dynamics of the multilingual pretraining process. We investigate when these models acquire their in-language and cross-lingual abilities by probing checkpoints taken from throughout XLM-R pretraining, using a suite of linguistic tasks. Our analysis shows that the model achieves high in-language performance early on, with lower-level linguistic skills acquired before more complex ones. In contrast, when the model learns to transfer cross-lingually depends on the language pair. Interestingly, we also observe that, across many languages and tasks, the final, converged model checkpoint exhibits significant performance degradation and that no one checkpoint performs best on all languages. Taken together with our other findings, these insights highlight the complexity and interconnectedness of multilingual pretraining.
+
+[Paper](https://arxiv.org/abs/2205.11758) [Checkpoints](https://nlp.cs.washington.edu/xlmr-across-time/)
+
+
+McPhraSy: Multi context phrase similarity and clustering
+------
+Amir DN Cohen, <u>Hila Gonen</u>, Ori Shapira, Ran Levy, Yoav Goldberg. Findings of EMNLP, 2022.
+
+Phrase similarity is a key component of many NLP applications. Current phrase similarity methods focus on embedding the phrase itself and use the phrase context only during training of the pretrained model. To better leverage the information in the context, we propose McPhraSy (Multi-context Phrase Similarity), a novel algorithm for estimating the similarity of phrases based on multiple contexts. At inference time, McPhraSy represents each phrase by considering multiple contexts in which it appears and computes the similarity of two phrases by aggregating the pairwise similarities between the contexts of the phrases. Incorporating context during inference enables McPhraSy to outperform current state-of-theart models on two phrase similarity datasets by up to 13.3%. Finally, we also present a new downstream task that relies on phrase similarity – keyphrase clustering – and create a new benchmark for it in the product reviews domain. We show that McPhraSy surpasses all other baselines for this task.
+
+[Paper](https://www.amazon.science/publications/mcphrasy-multi-context-phrase-similarity-and-clustering)
+
+
 Analyzing Gender Representation in Multilingual Models
 ------
 <u>Hila Gonen</u>, Shauli Ravfogel, Yoav Goldberg. <span style="color:blue">Best Paper</span> at the RepL4NLP workshop at ACL, 2022
