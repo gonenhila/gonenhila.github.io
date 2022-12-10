@@ -5,7 +5,7 @@ permalink: /updates/
 author_profile: true
 ---
 
-December 2022 - Our new paper "Demystifying Prompts in Language Models via Perplexity Estimation" is available on [arXiv](https://arxiv.org/pdf/2212.04037.pdf)
+December 2022 - Our new paper ["Demystifying Prompts in Language Models via Perplexity Estimation"](https://arxiv.org/pdf/2212.04037.pdf) is nor available on arXiv
 
 October 2022 - Excited to receive the [EECS Rising Stars](https://risingstars.utexas.edu/) award, attended the workshop at UT Austin
 
