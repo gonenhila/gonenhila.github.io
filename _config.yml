@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hila Gonen"
+title                    : 
 title_separator          : "-"
 name                     : &name "Hila Gonen"
 description              : &description "Researcher, Natural Language Processing"
