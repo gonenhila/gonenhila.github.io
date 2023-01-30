@@ -11,7 +11,7 @@ Full list of publications can be found in <u><a href="https://scholar.google.com
 
 Demystifying prompts in language models via perplexity estimation
 ------
-<u>Hila Gonen</u>, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer.
+<u>Hila Gonen</u>, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer. arXiv, 2022.
 
 <details>
 <summary>Abstract</summary>
@@ -25,7 +25,7 @@ Language models can be prompted to perform a wide variety of zero- and few-shot 
 
 Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?
 ------
-Weijia Shi, Xiaochuang Han, <u>Hila Gonen</u>, Ari Holtzman, Yulia Tsvetkov Luke Zettlemoyer.
+Weijia Shi, Xiaochuang Han, <u>Hila Gonen</u>, Ari Holtzman, Yulia Tsvetkov Luke Zettlemoyer. arXiv, 2022.
 
 <details>
 <summary>Abstract</summary>
@@ -39,7 +39,7 @@ Large language models can perform new tasks in a zero-shot fashion, given natura
 
 XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models
 ------
-Davis Liang, <u>Hila Gonen</u>, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, Madian Khabsa.
+Davis Liang, <u>Hila Gonen</u>, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, Madian Khabsa. arXiv, 2023.
 <details>
 <summary>Abstract</summary>
 
@@ -52,7 +52,7 @@ Large multilingual language models typically rely on a single vocabulary shared 
 
 Prompting Language Models for Linguistic Structure
 ------
-Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer.
+Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer. arXiv, 2022.
 
 <details>
 <summary>Abstract</summary>
