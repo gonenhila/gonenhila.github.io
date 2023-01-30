@@ -9,6 +9,47 @@ author_profile: true
 Full list of publications can be found in <u><a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
+Demystifying prompts in language models via perplexity estimation
+------
+<u>Hila Gonen</u>, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer.
+
+<details>
+<summary>Abstract</summary>
+
+Language models can be prompted to perform a wide variety of zero- and few-shot learning problems. However, performance varies significantly with the choice of prompt, and we do not yet understand why this happens or how to pick the best prompts. In this work, we analyze the factors that contribute to this variance and establish a new empirical hypothesis: the performance of a prompt is coupled with the extent to which the model is familiar with the language it contains. Over a wide range of tasks, we show that the lower the perplexity of the prompt is, the better the prompt is able to perform the task. As a result, we devise a method for creating prompts: (1) automatically extend a small seed set of manually written prompts by paraphrasing using GPT3 and backtranslation and (2) choose the lowest perplexity prompts to get significant gains in performance.
+  
+</details>
+  
+[Paper](https://arxiv.org/pdf/2212.04037)
+
+
+Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?
+------
+Weijia Shi, Xiaochuang Han, <u>Hila Gonen</u>, Ari Holtzman, Yulia Tsvetkov Luke Zettlemoyer.
+
+<details>
+<summary>Abstract</summary>
+
+Large language models can perform new tasks in a zero-shot fashion, given natural language prompts that specify the desired behavior. Such prompts are typically hand engineered, but can also be learned with gradient-based methods from labeled data. However, it is underexplored what factors make the prompts effective, especially when the prompts are natural language. In this paper, we investigate common attributes shared by effective prompts. We first propose a human readable prompt tuning method (FLUENT PROMPT) based on Langevin dynamics that incorporates a fluency constraint to find a diverse distribution of effective and fluent prompts. Our analysis reveals that effective prompts are topically related to the task domain and calibrate the prior probability of label words. Based on these findings, we also propose a method for generating prompts using only unlabeled data, outperforming strong baselines by an average of 7.0% accuracy across three tasks.
+  
+</details>
+  
+[Paper](https://arxiv.org/abs/2212.10539)
+
+
+XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models
+------
+Davis Liang, <u>Hila Gonen</u>, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, Madian Khabsa.
+<details>
+<summary>Abstract</summary>
+
+Large multilingual language models typically rely on a single vocabulary shared across 100+ languages. As these models have increased in parameter count and depth, vocabulary size has remained largely unchanged. This vocabulary bottleneck limits the representational capabilities of multilingual models like XLM-R. In this paper, we introduce a new approach for scaling to very large multilingual vocabularies by de-emphasizing token sharing between languages with little lexical overlap and assigning vocabulary capacity to achieve sufficient coverage for each individual language. Tokenizations using our vocabulary are typically more semantically meaningful and shorter compared to XLM-R. Leveraging this improved vocabulary, we train XLM-V, a multilingual language model with a one million token vocabulary. XLM-V outperforms XLM-R on every task we tested on ranging from natural language inference (XNLI), question answering (MLQA, XQuAD, TyDiQA), and named entity recognition (WikiAnn) to low-resource tasks (Americas NLI, MasakhaNER).
+  
+</details>
+  
+[Paper](https://arxiv.org/abs/2301.10472)
+
+
 Prompting Language Models for Linguistic Structure
 ------
 Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer.
