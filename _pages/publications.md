@@ -76,7 +76,7 @@ Large multilingual language models typically rely on a single vocabulary shared 
   
 </details>
   
-[Paper](https://aclanthology.org/2023.emnlp-main.813/)
+[Paper](https://aclanthology.org/2023.emnlp-main.813.pdf)
 
 
 Prompting Language Models for Linguistic Structure
@@ -105,7 +105,7 @@ The emergent cross-lingual transfer seen in multilingual pretrained models has s
 
 </details>
     
-[Paper](https://arxiv.org/abs/2205.11758) [Checkpoints](https://nlp.cs.washington.edu/xlmr-across-time/)
+[Paper](https://aclanthology.org/2022.emnlp-main.234.pdf) [Checkpoints](https://nlp.cs.washington.edu/xlmr-across-time/)
 
 
 Analyzing Gender Representation in Multilingual Models
@@ -119,7 +119,7 @@ Multilingual language models were shown to allow for nontrivial transfer across 
 
 </details>
   
-[Paper](https://aclanthology.org/2022.emnlp-main.234.pdf) [Code](https://github.com/gonenhila/multilingual_gender)
+[Paper](https://aclanthology.org/2022.repl4nlp-1.8.pdf) [Code](https://github.com/gonenhila/multilingual_gender)
 
 
 It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT
