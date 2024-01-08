@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral Researcher at Meta AI and at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). My research focuses on multilingual NLP, both from the perspective of modeling and from the perspective of analysis. I also work on promoting fairness in NLP, focusing mainly on gender bias identification and mitigation.
+I am a postdoctoral Researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I worked towards two main goals: (1) making cutting-edge language technology available and fair across speakers of different languages and users of different socio-demographic groups; (2) developing algorithms and methods for controlling the model's behavior.
 
-Before joining UW and Meta AI, I was a postdoctoral researcher at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
+Before joining UW, I was a postdoctoral researcher at Meta AI and at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
 
 
 Recent Updates
 ------
+
+October 2023 - Our paper ["Demystifying Prompts in Language Models via Perplexity Estimation"](https://aclanthology.org/2023.findings-emnlp.679/) is accepted at Findings of EMNLP (with [a few more papers](https://twitter.com/hila_gonen/status/1731935919811510519) as well)
+
+August 2023 - Women's Postdoctoral Career Development Award in Science (Weitzmann Institute of Science)
 
 January 2023 - Best Doctoral Dissertation Award Runner Up, Israeli Association for Artificial Intelligence (IAAI)
 
