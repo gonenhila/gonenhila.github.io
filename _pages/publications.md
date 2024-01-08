@@ -22,7 +22,7 @@ Language models can be prompted to perform a wide variety of zero- and few-shot 
   
 </details>
   
-[Paper](https://arxiv.org/pdf/2212.04037)
+[Paper](https://aclanthology.org/2023.findings-emnlp.679.pdf)
 
 
 Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
@@ -36,7 +36,7 @@ Language models have graduated from being research prototypes to commercialized 
 
 </details>
   
-[Paper](https://arxiv.org/abs/2305.13707)
+[Paper](https://aclanthology.org/2023.emnlp-main.614.pdf)
 
 
 Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark
@@ -63,7 +63,7 @@ Large language models can perform new tasks in a zero-shot fashion, given natura
   
 </details>
   
-[Paper](https://arxiv.org/abs/2212.10539)
+[Paper](https://aclanthology.org/2023.findings-emnlp.733.pdf)
 
 
 XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models
@@ -76,7 +76,7 @@ Large multilingual language models typically rely on a single vocabulary shared 
   
 </details>
   
-[Paper](https://arxiv.org/abs/2301.10472)
+[Paper](https://aclanthology.org/2023.emnlp-main.813/)
 
 
 Prompting Language Models for Linguistic Structure
@@ -91,7 +91,7 @@ Although pretrained language models (PLMs) can be prompted to perform a wide ran
 
 </details>
   
-[Paper](https://arxiv.org/abs/2211.07830)
+[Paper](https://aclanthology.org/2023.acl-long.367.pdf)
 
 
 Analyzing the Mono-and Cross-Lingual Pretraining Dynamics of Multilingual Language Models
@@ -119,7 +119,7 @@ Multilingual language models were shown to allow for nontrivial transfer across 
 
 </details>
   
-[Paper](https://arxiv.org/abs/2204.09168) [Code](https://github.com/gonenhila/multilingual_gender)
+[Paper](https://aclanthology.org/2022.emnlp-main.234.pdf) [Code](https://github.com/gonenhila/multilingual_gender)
 
 
 It's not Greek to mBERT: Inducing Word-Level Translations from Multilingual BERT
