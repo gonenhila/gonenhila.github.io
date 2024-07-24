@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral Researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I worked towards two main goals: (1) making cutting-edge language technology available and fair across speakers of different languages and users of different socio-demographic groups; (2) developing algorithms and methods for controlling the model's behavior.
+I am a postdoctoral Researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I work towards two main goals: (1) making cutting-edge language technology available and fair across speakers of different languages and users of different socio-demographic groups; (2) developing algorithms and methods for controlling the model's behavior.
 
 Before joining UW, I was a postdoctoral researcher at Meta AI and at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
 
