@@ -11,9 +11,66 @@ This is a list of selected publications.
 A full list of publications can be found in <a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
+
+MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization
+------
+Orevaoghene Ahia, Sachin Kumar, <u> Hila Gonen</u>, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith. arXiv, 2024.
+
+<details>
+<summary>Abstract</summary>
+
+In multilingual settings, non-Latin scripts and low-resource languages are usually disadvantaged in terms of language models' utility, efficiency, and cost. Specifically, previous studies have reported multiple modeling biases that the current tokenization algorithms introduce to non-Latin script languages, the main one being over-segmentation. In this work, we propose MAGNET; multilingual adaptive gradient-based tokenization to reduce over-segmentation via adaptive gradient-based subword tokenization. MAGNET learns to predict segment boundaries between byte tokens in a sequence via sub-modules within the model, which act as internal boundary predictors (tokenizers). Previous gradient-based tokenization methods aimed for uniform compression across sequences by integrating a single boundary predictor during training and optimizing it end-to-end through stochastic reparameterization alongside the next token prediction objective. However, this approach still results in over-segmentation for non-Latin script languages in multilingual settings. In contrast, MAGNET offers a customizable architecture where byte-level sequences are routed through language-script-specific predictors, each optimized for its respective language script. This modularity enforces equitable segmentation granularity across different language scripts compared to previous methods. Through extensive experiments, we demonstrate that in addition to reducing segmentation disparities, MAGNET also enables faster language modelling and improves downstream utility.
+
+</details>
+  
+[Paper](https://arxiv.org/abs/2407.08818)
+
+
+MYTE: Morphology-Driven Byte Encoding for Better and Fairer Multilingual Language Modeling
+------
+Tomasz Limisiewicz, Terra Blevins, <u> Hila Gonen</u>, Orevaoghene Ahia, Luke Zettlemoyer. ACL, 2024.
+
+<details>
+<summary>Abstract</summary>
+
+A major consideration in multilingual language modeling is how to best represent languages with diverse vocabularies and scripts. Although contemporary text encoding methods cover most of the world's writing systems, they exhibit bias towards the high-resource languages of the Global West. As a result, texts of underrepresented languages tend to be segmented into long sequences of linguistically meaningless units. To address the disparities, we introduce a new paradigm that encodes the same information with segments of consistent size across diverse languages. Our encoding convention (MYTE) is based on morphemes, as their inventories are more balanced across languages than characters, which are used in previous methods. We show that MYTE produces shorter encodings for all 99 analyzed languages, with the most notable improvements for non-European languages and non-Latin scripts. This, in turn, improves multilingual LM performance and diminishes the perplexity gap throughout diverse languages.
+
+</details>
+  
+[Paper](https://arxiv.org/abs/2403.10691)
+
+
+Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models
+------
+Terra Blevins, Tomasz Limisiewicz, Suchin Gururangan, Margaret Li, <u> Hila Gonen</u>, Noah A. Smith, Luke Zettlemoyer. arXiv, 2024.
+
+<details>
+<summary>Abstract</summary>
+
+Despite their popularity in non-English NLP, multilingual language models often underperform monolingual ones due to inter-language competition for model parameters. We propose Cross-lingual Expert Language Models (X-ELM), which mitigate this competition by independently training language models on subsets of the multilingual corpus. This process specializes X-ELMs to different languages while remaining effective as a multilingual ensemble. Our experiments show that when given the same compute budget, X-ELM outperforms jointly trained multilingual models across all considered languages and that these gains transfer to downstream tasks. X-ELM provides additional benefits over performance improvements: new experts can be iteratively added, adapting X-ELM to new languages without catastrophic forgetting. Furthermore, training is asynchronous, reducing the hardware requirements for multilingual training and democratizing multilingual modeling.
+
+</details>
+  
+[Paper](https://arxiv.org/abs/2401.10440)
+
+
+BUFFET: Benchmarking Large Language Models for Few-shot Cross-lingual Transfer
+------
+Akari Asai, Sneha Kudugunta, Xinyan Velocity Yu, Terra Blevins, <u> Hila Gonen</u>, Machel Reid, Yulia Tsvetkov, Sebastian Ruder, Hannaneh Hajishirzi. NAACL, 2024.
+
+<details>
+<summary>Abstract</summary>
+
+Despite remarkable advancements in few-shot generalization in natural language processing, most models are developed and evaluated primarily in English. To establish a rigorous and equitable evaluation framework for few-shot cross-lingual transfer, we introduce a new benchmark, called BUFFET, which unifies 15 diverse tasks across 54 languages in a sequence-to-sequence format and provides a fixed set of few-shot examples and instructions. Using BUFFET, we perform thorough evaluations of ten state-of-the-art multilingual large language models with different transfer methods, namely in-context learning and fine-tuning. Our findings reveal significant room for improvement in few-shot in-context cross-lingual transfer. Strong multilingual pre-trained or instruction-tuned models such as BLOOM or ChatGPT often lag behind much smaller mT5-base models given the same number of few-shot samples, particularly in low-resource languages. Our analysis suggests avenues for future research in few-shot cross-lingual transfer.
+
+</details>
+  
+[Paper](https://aclanthology.org/2024.naacl-long.100.pdf)
+
+
 Demystifying prompts in language models via perplexity estimation
 ------
-<u>Hila Gonen</u>, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer. arXiv, 2022.
+<u>Hila Gonen</u>, Srini Iyer, Terra Blevins, Noah A. Smith, Luke Zettlemoyer. Findings of EMNLP, 2023.
 
 <details>
 <summary>Abstract</summary>
@@ -27,7 +84,7 @@ Language models can be prompted to perform a wide variety of zero- and few-shot 
 
 Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
 ------
-Orevaoghene Ahia, Sachin Kumar, <u>Hila Gonen</u>, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov
+Orevaoghene Ahia, Sachin Kumar, <u>Hila Gonen</u>, Jungo Kasai, David R. Mortensen, Noah A. Smith, Yulia Tsvetkov. EMNLP, 2023.
 
 <details>
 <summary>Abstract</summary>
@@ -41,7 +98,7 @@ Language models have graduated from being research prototypes to commercialized 
 
 Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark
 ------
-Stephen Mayhew, Terra Blevins, Shuheng Liu, Marek Šuppa, <u>Hila Gonen</u>, Joseph Marvin Imperial, Börje F Karlsson, Peiqin Lin, Nikola Ljubešić, LJ Miranda, Barbara Plank, Arij Riabi, Yuval Pinter. arXiv, 2023.
+Stephen Mayhew, Terra Blevins, Shuheng Liu, Marek Šuppa, <u>Hila Gonen</u>, Joseph Marvin Imperial, Börje F Karlsson, Peiqin Lin, Nikola Ljubešić, LJ Miranda, Barbara Plank, Arij Riabi, Yuval Pinter. NAACL, 2024.
 
 <details>
 <summary>Abstract</summary>
@@ -54,7 +111,7 @@ We introduce Universal NER (UNER), an open, community-driven project to develop 
 
 Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too?
 ------
-Weijia Shi, Xiaochuang Han, <u>Hila Gonen</u>, Ari Holtzman, Yulia Tsvetkov Luke Zettlemoyer. arXiv, 2022.
+Weijia Shi, Xiaochuang Han, <u>Hila Gonen</u>, Ari Holtzman, Yulia Tsvetkov Luke Zettlemoyer. Findings of EMNLP, 2023.
 
 <details>
 <summary>Abstract</summary>
@@ -68,7 +125,7 @@ Large language models can perform new tasks in a zero-shot fashion, given natura
 
 XLM-V: Overcoming the Vocabulary Bottleneck in Multilingual Masked Language Models
 ------
-Davis Liang, <u>Hila Gonen</u>, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, Madian Khabsa. arXiv, 2023.
+Davis Liang, <u>Hila Gonen</u>, Yuning Mao, Rui Hou, Naman Goyal, Marjan Ghazvininejad, Luke Zettlemoyer, Madian Khabsa. EMNLP, 2023.
 <details>
 <summary>Abstract</summary>
 
@@ -81,7 +138,7 @@ Large multilingual language models typically rely on a single vocabulary shared 
 
 Prompting Language Models for Linguistic Structure
 ------
-Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer. arXiv, 2022.
+Terra Blevins, <u>Hila Gonen</u>, Luke Zettlemoyer. ACL, 2022.
 
 <details>
 <summary>Abstract</summary>
