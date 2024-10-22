@@ -16,6 +16,8 @@ Before joining UW, I was a postdoctoral researcher at Meta AI and at Amazon. Pri
 Recent Updates
 ------
 
+August 2024 - Our new paper [Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models](https://www.arxiv.org/pdf/2408.06518) is now available on arXiv
+
 October 2023 - Our paper [Demystifying Prompts in Language Models via Perplexity Estimation](https://aclanthology.org/2023.findings-emnlp.679/) is accepted at Findings of EMNLP (with [a few more papers](https://twitter.com/hila_gonen/status/1731935919811510519) as well)
 
 August 2023 - Women's Postdoctoral Career Development Award in Science (Weitzmann Institute of Science)
