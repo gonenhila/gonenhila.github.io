@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the University of Biritish Columbia, starting August 2025. I am currently a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). 
+I am an incoming Assistant Professot of [Computer Science at the University of Biritish Columbia](https://www.cs.ubc.ca/), starting August 2025. I am currently a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). 
 
 My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I work towards two main goals: (1) developing algorithms and methods for understanding and controlling the model's behavior; (2) making cutting-edge language technology available and fair across languages and different socio-demographic groups. I am interested in making models more reliable, consistent and safe, and I also focus on multilingual NLP. 
 
@@ -18,6 +18,14 @@ Before joining UW, I was a postdoctoral researcher at Meta AI and at Amazon. Pri
 Recent Updates
 ------
 
+Decemner 2024 - Participated as a panelist in [The Future of NLP workshop at UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) 
+
+December 2024 - I have accepted an offer from CS UBC and will be joining as an Assitant Professor starting august 2025.
+
+November 2024 - Keynote at [The 4th Multilingual Representation Learning workshop, EMNLP](https://sigtyp.github.io/ws2024-mrl.html)
+
+October 2024 - Moderating a panel about Safety in AI at [The Paul G. Allen School's 2024 Annual Research Showcase and Open House event](https://www.cs.washington.edu/industrial_affiliates/meetings/2024/talks)
+
 August 2024 - Our new paper [Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models](https://www.arxiv.org/pdf/2408.06518) is now available on arXiv
 
 October 2023 - Our paper [Demystifying Prompts in Language Models via Perplexity Estimation](https://aclanthology.org/2023.findings-emnlp.679/) is accepted at Findings of EMNLP (with [a few more papers](https://twitter.com/hila_gonen/status/1731935919811510519) as well)
@@ -25,8 +33,6 @@ October 2023 - Our paper [Demystifying Prompts in Language Models via Perplexity
 August 2023 - Women's Postdoctoral Career Development Award in Science (Weitzmann Institute of Science)
 
 January 2023 - Best Doctoral Dissertation Award Runner Up, Israeli Association for Artificial Intelligence (IAAI)
-
-December 2022 - Our new paper [Demystifying Prompts in Language Models via Perplexity Estimation](https://arxiv.org/pdf/2212.04037.pdf) is now available on arXiv
 
 October 2022 - Excited to receive the [EECS Rising Stars](https://risingstars.utexas.edu/) award, attended the workshop at UT Austin
 
