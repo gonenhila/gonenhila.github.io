@@ -7,7 +7,7 @@ author_profile: true
 
 Decemner 2024 - Participated as a panelist in [The Future of NLP workshop at UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) 
 
-December 2024 - I have accepted an offer from CS UBC and will be joining as an Assitant Professor starting august 2025.
+December 2024 - I have accepted an offer from CS UBC and will be joining as an Assitant Professor starting August 2025.
 
 November 2024 - Keynote at [The 4th Multilingual Representation Learning workshop, EMNLP](https://sigtyp.github.io/ws2024-mrl.html)
 
