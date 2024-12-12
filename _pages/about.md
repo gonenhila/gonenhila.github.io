@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professot of [Computer Science at the University of Biritish Columbia](https://www.cs.ubc.ca/), starting August 2025. I am currently a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). 
+I am an incoming Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/), starting August 2025. I am currently a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/). 
 
 My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I work towards two main goals: (1) developing algorithms and methods for understanding and controlling the model's behavior; (2) making cutting-edge language technology available and fair across languages and different socio-demographic groups. I am interested in making models more reliable, consistent and safe, and I also focus on multilingual NLP. 
 
