@@ -14,6 +14,8 @@ My research interests lie in the intersection of Natural Language Processing, Ma
 
 Before joining UW, I was a postdoctoral researcher at Meta AI and at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
 
+**Note for prospective students**: I will be recruiting graduate students this coming cycle for the fall of 2025. The deadline is December 15 2024, and you should apply [directly to the department](https://www.cs.ubc.ca/students/grad/prospective).
+
 
 Recent Updates
 ------
