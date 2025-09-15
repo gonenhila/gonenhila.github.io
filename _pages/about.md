@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/). Previous to that I was a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/) and at Meta AI. 
+I am an Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/). 
 
 My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. In my research I work towards two main goals: (1) developing algorithms and methods for understanding and controlling the model's behavior; (2) making cutting-edge language technology available and fair across languages and different socio-demographic groups. I am interested in making models more reliable, consistent and safe, and I also focus on multilingual NLP. 
 
-Before joining UW, I was a postdoctoral researcher at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
+Before joining UBC, I was a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/), at Meta AI and at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
 
-**Note for prospective students**: I will be recruiting graduate students this coming cycle for the fall of 2026. The deadline is December 15 2025, and you should apply [directly to the department](https://www.cs.ubc.ca/students/grad/prospective). Please do not email me directly. If you are intereted in working with me, simply mention my name in your application.
+**Note for prospective students**: I will be recruiting graduate students this coming cycle for the fall of 2026. The deadline is December 15 2025, and you should apply [directly to the department](https://www.cs.ubc.ca/students/grad/prospective). Please do not email me directly. If you are interested in working with me, simply mention my name in your application.
 
 
 Recent Updates
