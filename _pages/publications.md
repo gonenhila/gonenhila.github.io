@@ -12,7 +12,6 @@ A full list of publications can be found in <a href="https://scholar.google.com/
 
 
 OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities and Languages
-Authors
 ------
 Sahil Verma, Keegan Hines, Jeff Bilmes, Charlotte Siska, Luke Zettlemoyer, <u> Hila Gonen</u>, Chandan Singh. EMNLP, 2025.
 
@@ -27,7 +26,6 @@ The emerging capabilities of large language models (LLMs) have sparked concerns 
 
 
 Dementia Through Different Eyes: Explainable Modeling of Human and LLM Perceptions for Early Awareness
-Authors
 ------
 Lotem Peled-Cohen, Maya Zadok, Nitay Calderon, <u> Hila Gonen</u>, Roi Reichart. Findings of EMNLP, 2025.
 
