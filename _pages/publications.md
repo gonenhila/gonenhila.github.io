@@ -12,6 +12,37 @@ A full list of publications can be found in <a href="https://scholar.google.com/
 
 
 
+OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities and Languages
+Authors
+------
+Sahil Verma, Keegan Hines, Jeff Bilmes, Charlotte Siska, Luke Zettlemoyer, <u> Hila Gonen</u>, Chandan Singh. EMNLP, 2025.
+
+<details>
+<summary>Abstract</summary>
+
+The emerging capabilities of large language models (LLMs) have sparked concerns about their immediate potential for harmful misuse. The core approach to mitigate these concerns is the detection of harmful queries to the model. Current detection approaches are fallible, and are particularly susceptible to attacks that exploit mismatched generalization of model capabilities (e.g., prompts in low-resource languages or prompts provided in non-text modalities such as image and audio). To tackle this challenge, we propose OMNIGUARD, an approach for detecting harmful prompts across languages and modalities. Our approach (i) identifies internal representations of an LLM/MLLM that are aligned across languages or modalities and then (ii) uses them to build a language-agnostic or modality-agnostic classifier for detecting harmful prompts. OMNIGUARD improves harmful prompt classification accuracy by 11.57\% over the strongest baseline in a multilingual setting, by 20.44\% for image-based prompts, and sets a new SOTA for audio-based prompts. By repurposing embeddings computed during generation, OMNIGUARD is also very efficient (≈120× faster than the next fastest baseline).
+
+</details>
+
+[Paper](https://arxiv.org/abs/2505.23856)
+
+
+
+Dementia Through Different Eyes: Explainable Modeling of Human and LLM Perceptions for Early Awareness
+Authors
+------
+Lotem Peled-Cohen, Maya Zadok, Nitay Calderon, <u> Hila Gonen</u>, Roi Reichart. Findings of EMNLP, 2025.
+
+<details>
+<summary>Abstract</summary>
+
+Cognitive decline often surfaces in language years before diagnosis. It is frequently non-experts, such as those closest to the patient, who first sense a change and raise concern. As LLMs become integrated into daily communication and used over prolonged periods, it may even be an LLM that notices something is off. But what exactly do they notice--and should be noticing--when making that judgment? This paper investigates how dementia is perceived through language by non-experts. We presented transcribed picture descriptions to non-expert humans and LLMs, asking them to intuitively judge whether each text was produced by someone healthy or with dementia. We introduce an explainable method that uses LLMs to extract high-level, expert-guided features representing these picture descriptions, and use logistic regression to model human and LLM perceptions and compare with clinical diagnoses. Our analysis reveals that human perception of dementia is inconsistent and relies on a narrow, and sometimes misleading, set of cues. LLMs, by contrast, draw on a richer, more nuanced feature set that aligns more closely with clinical patterns. Still, both groups show a tendency toward false negatives, frequently overlooking dementia cases. Through our interpretable framework and the insights it provides, we hope to help non-experts better recognize the linguistic signs that matter.
+
+</details>
+
+[Paper](https://arxiv.org/abs/2505.13418)
+
+
 MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization
 ------
 Orevaoghene Ahia, Sachin Kumar, <u> Hila Gonen</u>, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith. arXiv, 2024.
