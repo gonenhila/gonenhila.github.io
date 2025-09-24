@@ -11,7 +11,6 @@ This is a list of selected publications.
 A full list of publications can be found in <a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
-
 OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities and Languages
 Authors
 ------
@@ -25,7 +24,6 @@ The emerging capabilities of large language models (LLMs) have sparked concerns 
 </details>
 
 [Paper](https://arxiv.org/abs/2505.23856)
-
 
 
 Dementia Through Different Eyes: Explainable Modeling of Human and LLM Perceptions for Early Awareness
