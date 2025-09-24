@@ -43,7 +43,7 @@ Cognitive decline often surfaces in language years before diagnosis. It is frequ
 
 MAGNET: Improving the Multilingual Fairness of Language Models with Adaptive Gradient-Based Tokenization
 ------
-Orevaoghene Ahia, Sachin Kumar, <u> Hila Gonen</u>, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith. arXiv, 2024.
+Orevaoghene Ahia, Sachin Kumar, <u> Hila Gonen</u>, Valentin Hoffman, Tomasz Limisiewicz, Yulia Tsvetkov, Noah A. Smith. NeurIPS, 2024.
 
 <details>
 <summary>Abstract</summary>
@@ -71,7 +71,7 @@ A major consideration in multilingual language modeling is how to best represent
 
 Breaking the Curse of Multilinguality with Cross-lingual Expert Language Models
 ------
-Terra Blevins, Tomasz Limisiewicz, Suchin Gururangan, Margaret Li, <u> Hila Gonen</u>, Noah A. Smith, Luke Zettlemoyer. arXiv, 2024.
+Terra Blevins, Tomasz Limisiewicz, Suchin Gururangan, Margaret Li, <u> Hila Gonen</u>, Noah A. Smith, Luke Zettlemoyer. EMNLP, 2024.
 
 <details>
 <summary>Abstract</summary>
