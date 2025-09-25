@@ -5,7 +5,7 @@ permalink: /updates/
 author_profile: true
 ---
 
-August 2025 - Joined UBC and an Assistant Professor.
+August 2025 - Joined UBC as an Assistant Professor.
 
 August 2025 - Our papers have been accepted at [EMNLP (Omniguard)](https://arxiv.org/abs/2505.23856) and [Findings of EMNLP (Dementia Through Different Eyes)](https://arxiv.org/abs/2505.13418).
 
