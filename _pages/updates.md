@@ -5,6 +5,10 @@ permalink: /updates/
 author_profile: true
 ---
 
+August 2025 - Joined UBC and an Assistant Professor.
+
+August 2025 - Our papers have been accepted at [EMNLP (Omniguard)](https://arxiv.org/abs/2505.23856) and [Findings of EMNLP (Dementia Through Different Eyes)](https://arxiv.org/abs/2505.13418).
+
 Decemner 2024 - Participated as a panelist in [The Future of NLP workshop at UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) 
 
 December 2024 - I have accepted an offer from CS UBC and will be joining as an Assitant Professor starting August 2025.
