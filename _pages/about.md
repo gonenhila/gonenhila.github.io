@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/). 
 
-My research interests lie in the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. My long-term vision is transforming LLMs into responsible, reliable and trustworthy systems, available and fair across languages and different socio-demographic groups. In my research I focus on three main threads: (1) Control and interpretation of models: understanding model behavior and controlling model generation; (2) Reliability, safety and fairness: making models more consistent and safe, and mitigating biases and risks; (3) Multilinguality: creating NLP tools that equitably serve speakers of as many languages as possible, as well as understanding the emergent property of cross-linguality in models. Additionally, I've recently developed interest in employing NLP tools and methodologies in the health domain. 
+My research interests lie at the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. My long-term vision is transforming LLMs into responsible, reliable and trustworthy systems, which are available and fair across languages and different socio-demographic groups. In my research I focus on three main threads: (1) Control and interpretation of models: understanding model behavior and controlling model generation; (2) Reliability, safety and fairness: making models more consistent and safe, and mitigating biases and risks; (3) Multilinguality: creating NLP tools that equitably serve speakers of as many languages as possible, as well as understanding the emergent property of cross-linguality in models. Additionally, I've recently developed interest in employing NLP tools and methodologies in the health domain. 
 
 Before joining UBC, I was a postdoctoral researcher at the [Paul G. Allen School of Computer Science & Engineering at the University of Washington](https://www.cs.washington.edu/), at Meta AI and at Amazon. Prior to that I did my Ph.D in Computer Science at the [NLP lab at Bar Ilan University](https://biu-nlp.github.io/). I obtained my Ms.C. in Coputer Science from the [Hebrew University](https://www.cs.huji.ac.il/).
 
@@ -31,15 +31,3 @@ December 2024 - I have accepted an offer from CS UBC and will be joining as an A
 November 2024 - Keynote at [The 4th Multilingual Representation Learning workshop, EMNLP](https://sigtyp.github.io/ws2024-mrl.html)
 
 October 2024 - Moderating a panel about Safety in AI at [The Paul G. Allen School's 2024 Annual Research Showcase and Open House event](https://www.cs.washington.edu/industrial_affiliates/meetings/2024/talks)
-
-August 2024 - Our new paper [Does Liking Yellow Imply Driving a School Bus? Semantic Leakage in Language Models](https://www.arxiv.org/pdf/2408.06518) is now available on arXiv
-
-October 2023 - Our paper [Demystifying Prompts in Language Models via Perplexity Estimation](https://aclanthology.org/2023.findings-emnlp.679/) is accepted at Findings of EMNLP (with [a few more papers](https://twitter.com/hila_gonen/status/1731935919811510519) as well)
-
-August 2023 - Women's Postdoctoral Career Development Award in Science (Weitzmann Institute of Science)
-
-January 2023 - Best Doctoral Dissertation Award Runner Up, Israeli Association for Artificial Intelligence (IAAI)
-
-October 2022 - Excited to receive the [EECS Rising Stars](https://risingstars.utexas.edu/) award, attended the workshop at UT Austin
-
-May 2022 - We are honored to get the *Best Paper* award at the RepL4NLP workshop for our paper ["Analyzing Gender Representation in Multilingual Models"](https://arxiv.org/pdf/2204.09168.pdf)
