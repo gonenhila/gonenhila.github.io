@@ -11,6 +11,25 @@ This is a list of selected publications.
 A full list of publications can be found in <a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
+Rewriting History: A Recipe for Interventional Analyses to Study Data Effects on Model Behavior
+------
+Rahul Nadkarni, Yanai Elazar, Hila Gonen, Noah A Smith, 2025.
+
+<details>
+<summary>Abstract</summary>
+
+We present an experimental recipe for studying the relationship between training data and language model (LM) behavior. We outline steps for intervening on data batches -- i.e., ``rewriting history'' -- and then retraining model checkpoints over that data to test hypotheses relating data to behavior. Our recipe breaks down such an intervention into stages that include selecting evaluation items from a benchmark that measures model behavior, matching relevant documents to those items, and modifying those documents before retraining and measuring the effects. We demonstrate the utility of our recipe through case studies on factual knowledge acquisition in LMs, using both cooccurrence statistics and information retrieval methods to identify documents that might contribute to knowledge learning. Our results supplement past observational analyses that link cooccurrence to model behavior, while demonstrating that extant methods for identifying relevant training documents do not fully explain an LM's ability to correctly answer knowledge questions. Overall, we outline a recipe that researchers can follow to test further hypotheses about how training data affects model behavior. Our code is made publicly available to promote future work.
+
+</details>
+
+[Paper](https://arxiv.org/abs/2510.14261)
+
+
+Human and LLM Judgments of Cognitive Impairment from Language: An Explainable AI Approach
+------
+Lotem Peled-Cohen\*, Maya Zadok\*, Nitay Calderon, <u> Hila Gonen</u>, Michal Schnaider Beeri, Roi Reichart. Alzheimer’s & Dementia: Diagnosis, Assessment & Disease Monitoring, 2025.
+
+
 OMNIGUARD: An Efficient Approach for AI Safety Moderation Across Modalities and Languages
 ------
 Sahil Verma, Keegan Hines, Jeff Bilmes, Charlotte Siska, Luke Zettlemoyer, <u> Hila Gonen</u>, Chandan Singh. EMNLP, 2025.
