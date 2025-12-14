@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professot of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/). 
+I am an Assistant Professor of [Computer Science](https://www.cs.ubc.ca/) at the [University of Biritish Columbia](https://www.ubc.ca/). 
 
 My research interests lie at the intersection of Natural Language Processing, Machine Learning and Artificial Intelligence. My long-term vision is transforming LLMs into responsible, reliable and trustworthy systems, which are available and fair across languages and different socio-demographic groups. In my research, I focus on three main threads: (1) Control and interpretation of models: understanding model behavior and controlling model generation; (2) Reliability, safety and fairness: making models more consistent and safe, and mitigating biases and risks; (3) Multilinguality: creating NLP tools that equitably serve speakers of as many languages as possible, as well as understanding the emergent property of cross-linguality in models. Additionally, I have recently developed an interest in employing NLP tools and methodologies in the health domain. 
 
