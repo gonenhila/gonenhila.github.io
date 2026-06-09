@@ -7,8 +7,8 @@ author_profile: true
 
 **Note:** This is the syllabus for the 2025w2 offering; some parts might be updated closer to the 2026w1 offering.
 
-# Topics in Artificial Intelligence: Analysis, Control and Interpretation of Models in NLP
-**CPSC_V 532H**
+# CPSC_V 532H: Topics in Artificial Intelligence: Analysis, Control and Interpretation of Models in NLP
+
 
 - **When:** Monday, Wednesday, 10:30am – 11:50am
 - **Where:** Hector J. MacLeod Building (MCLD), Floor 2, Room 2014
