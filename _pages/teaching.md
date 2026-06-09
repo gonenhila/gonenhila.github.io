@@ -11,7 +11,7 @@ author_profile: true
 
 
 - **When:** Monday, Wednesday, 10:30am – 11:50am
-- **Where:** Hector J. MacLeod Building (MCLD), Floor 2, Room 2014
+- **Where:** SWNG SWNG-308
 - **Instructor:** Hila Gonen
 - **Office hours:** By appointment
 - **Canvas:** https://canvas.ubc.ca/courses/178785
