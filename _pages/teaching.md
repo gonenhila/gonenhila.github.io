@@ -120,9 +120,7 @@ More details and instructions will be provided on February 2nd.
 - [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://aclanthology.org/2024.acl-long.820.pdf)
 - [Why Language Models Hallucinate](https://cdn.openai.com/pdf/d04913be-3f6f-4d2b-b283-ff432ef4aaa5/why-language-models-hallucinate.pdf?s=08)
 - [Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models](https://arxiv.org/abs/2403.19647)
-
-### Mechanistic?
-
+- [Mechanistic?](https://arxiv.org/abs/2410.09087)
 - [Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation](https://aclanthology.org/2021.acl-long.91.pdf)
 
 ### Control
