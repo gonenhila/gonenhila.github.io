@@ -5,13 +5,21 @@ permalink: /updates/
 author_profile: true
 ---
 
+June 2026 - Our new paper [PHANTOMBENCH: Benchmarking the Non-existential Threat of Language Models](https://arxiv.org/pdf/2606.11105) is now available on arXiv.
+
+May 2026 - Keynote at the [Responsible AI track](https://www.caiac.ca/en/conferences/canadianai-2026/responsible-ai) at the [Canadian AI conference](https://www.caiac.ca/en/conferences/canadianai-2026/home).
+
+March 2026 - Our paper [Rewriting History: A Recipe for Interventional Analyses to Study Data Effects on Model Behavior](https://arxiv.org/pdf/2510.14261) has been accepted to TACL.
+
+February 2026 - Appointed as [CIFAR AI Chair](https://cifar.ca/ai/canada-cifar-ai-chairs/) at the [Alberta Machine Intelligence Institute (Amii)](https://www.amii.ca/), see [here](https://www.cs.ubc.ca/news/2026/05/cifar-ai-chairs-global-scholar) and [here](https://cifar.ca/cifarnews/2026/05/21/government-of-canada-and-cifar-announce-24m-investment-in-top-ai-talent/) for more details.
+
 August 2025 - Joined UBC as an Assistant Professor.
 
 August 2025 - Our papers have been accepted at [EMNLP (Omniguard)](https://arxiv.org/abs/2505.23856) and [Findings of EMNLP (Dementia Through Different Eyes)](https://arxiv.org/abs/2505.13418).
 
 December 2024 - Participated as a panelist in [The Future of NLP workshop at UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) 
 
-December 2024 - I have accepted an offer from CS UBC and will be joining as an Assitant Professor starting August 2025.
+December 2024 - I have accepted an offer from CS UBC and will be joining as an Assistant Professor starting August 2025.
 
 November 2024 - Keynote at [The 4th Multilingual Representation Learning workshop, EMNLP](https://sigtyp.github.io/ws2024-mrl.html)
 
