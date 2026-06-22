@@ -31,11 +31,3 @@ February 2026 - Appointed as [CIFAR AI Chair](https://cifar.ca/ai/canada-cifar-a
 August 2025 - Joined UBC as an Assistant Professor.
 
 August 2025 - Our papers have been accepted at [EMNLP (Omniguard)](https://arxiv.org/abs/2505.23856) and [Findings of EMNLP (Dementia Through Different Eyes)](https://arxiv.org/abs/2505.13418).
-
-December 2024 - Participated as a panelist in [The Future of NLP workshop at UBC](https://nlp.cs.ubc.ca/future-of-nlp-workshop) 
-
-December 2024 - I have accepted an offer from CS UBC and will be joining as an Assistant Professor starting August 2025.
-
-November 2024 - Keynote at [The 4th Multilingual Representation Learning workshop, EMNLP](https://sigtyp.github.io/ws2024-mrl.html)
-
-October 2024 - Moderating a panel about Safety in AI at [The Paul G. Allen School's 2024 Annual Research Showcase and Open House event](https://www.cs.washington.edu/industrial_affiliates/meetings/2024/talks)
