@@ -11,6 +11,36 @@ This is a list of selected publications.
 A full list of publications can be found in <a href="https://scholar.google.com/citations?user=URThmtMAAAAJ&hl=en">my Google Scholar profile</a>.
 
 
+
+PhantomBench: Benchmarking the Non-existential Threat of Language Models
+------
+Haeji Jung, Hila Gonen
+
+<details>
+<summary>Abstract</summary>
+
+Hallucinations, where language models (LMs) generate factually ungrounded responses, pose serious risks, as users tend to blindly rely on them. This is particularly concerning in high-stakes domains, where consequences of such model behavior can lead to significant harms. Despite notable progress in understanding hallucinations, it remains unclear how reliably these models can recognize the limits of their knowledge. We introduce PhantomBench, the first large-scale benchmark of its kind, comprising more than 60K non-existent terms and entities derived from real concepts across diverse domains. Using our benchmark, we evaluate a total of 21 models of various types and sizes. We show staggering hallucination rates across the board (with average rates as high as 86.7% in some cases), and note that even frontier models surprisingly fail to abstain on non-existent concepts, especially when the input presumes their existence. We then show that PhantomBench can serve as a proxy for studying model behavior on rare concepts for which models are more prone to hallucinate. We also provide a pipeline to construct PhantomBench, enabling scalable generation of non-existent concepts tailored to the specific needs of researchers and practitioners.
+
+
+</details>
+
+[Paper](https://arxiv.org/pdf/2606.11105)
+
+
+Universal NER v2: Towards a Massively Multilingual Named Entity Recognition Benchmark
+------
+Terra Blevins, Stephen Mayhew, Marek Šuppa, Hila Gonen, Shachar Mirkin, Vasile Pais, Kaja Dobrovoljc, Voula Giouli, Jun Kevin, Eugene Jang, Eungseo Kim, Jeongyeon Seo, Xenophon Gialis, Yuval Pinter, LREC, 2026.
+
+<details>
+<summary>Abstract</summary>
+
+While multilingual language models promise to bring the benefits of LLMs to speakers of many languages, gold-standard evaluation benchmarks in most languages to interrogate these assumptions remain scarce. The Universal NER project, now entering its fourth year, is dedicated to building gold-standard multilingual Named Entity Recognition (NER) benchmark datasets. Inspired by existing massively multilingual efforts for other core NLP tasks (e.g., Universal Dependencies), the project uses a general tagset and thorough annotation guidelines to collect standardized, cross-lingual annotations of named entity spans. The first installment (UNER v1) was released in 2024, and the project has continued and expanded since then, with various organizers, annotators, and collaborators in an active community.
+
+</details>
+
+[Paper](https://arxiv.org/pdf/2604.12744)
+
+
 Rewriting History: A Recipe for Interventional Analyses to Study Data Effects on Model Behavior
 ------
 Rahul Nadkarni, Yanai Elazar, Hila Gonen, Noah A Smith, 2025.
